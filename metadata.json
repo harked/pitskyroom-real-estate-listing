@@ -1,0 +1,6 @@
+{
+  "name": "PitskyRoom - Real Estate Listing",
+  "description": "A real estate listing application that uses AI to generate property descriptions and helps users find properties with smart filters.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
